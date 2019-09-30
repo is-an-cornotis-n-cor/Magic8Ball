@@ -39,10 +39,12 @@ import java.util.Scanner;
             } else if (80 >= firstNumber && firstNumber > 70) {
                 System.out.println("That is pretty good");
             }
-            else if (90 >= firstNumber && firstNumber > 80) {
+            else if (90>= firstNumber && firstNumber > 80) {
                 System.out.println("That is pretty good");
             }
-
+            else if (100>= firstNumber && firstNumber >90) {
+                System.out.println("That is pretty good");
+            }
 
         }
     }
