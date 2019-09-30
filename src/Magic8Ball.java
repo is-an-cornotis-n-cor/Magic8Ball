@@ -45,6 +45,7 @@ import java.util.Scanner;
             else if (100>= firstNumber && firstNumber >90) {
                 System.out.println("That is pretty good");
             }
-
+            else
+                System.out.println("No silly thats not a number between 1 and 100 hehehehehehehehehehe");
+            }
         }
-    }
